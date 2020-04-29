@@ -2,8 +2,8 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "user12-products"
-
+    _PROJECT_NAME: "user12-products"
+    
 phases:
   install:
     runtime-versions:
